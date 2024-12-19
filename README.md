@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Vimal Raj
-- 👀 I’m interested in Data Analyst, Full Stack Development
-- 🌱 I’m currently learning R programming, Tablue
-- Ask me about Python,Java, SQL, Machine Learning
+- 👀 I’m Softwere Engineer at Tekzen Systems, Full Stack Development
+- 🌱 I’m currently learning React-Native programming, 
+- Ask me about Python,Java, SQL, Machine Learning, Web deveopment(Laravel-PHP,HTML,CSS,JAVASCRIPT,JQUERY)
 - 📫 How to reach me vimalraj120498@gmail.om
 
 <!---
